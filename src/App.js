@@ -10,7 +10,7 @@ function App(asd) {
           Edit <code>src/App.js</code> and save to reload. `its working fine. ${asd} . in COnflict`
         </p>
         <div>
-          All right reserved. 2024 Dev
+          All right reserved. 2024 Dev- Dev Change
         </div>
         <a
           className="App-link"
@@ -21,7 +21,7 @@ function App(asd) {
           Learn React How it works and all about it. !!!!!!! Elaz. . in COnflict
         </a>
         <div>
-          Huta Mala From COnflict Zone. in COnflict
+          Huta Mala From COnflict Zone. in COnflict - Dev Change
         </div>
       </header>
     </div>
