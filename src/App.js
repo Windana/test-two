@@ -9,7 +9,13 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. its working fine.
         </p>
-          Learn React get to knmow that jow it works. 
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React How it works and all about it. 
         </a>
       </header>
     </div>
