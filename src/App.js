@@ -15,8 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React How it works and all about it. 
+          Learn React How it works and all about it. !!!!!!! Elaz.
         </a>
+        <div>
+          Huta Mala From COnflict Zone.
+        </div>
       </header>
     </div>
   );
