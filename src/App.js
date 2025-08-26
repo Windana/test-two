@@ -13,7 +13,7 @@ function App(asd) {
           All right reserved. 2024 Dev- Dev Change
         </div>
         <a
-          className="App-link"
+          className="App-link asasdasd"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
