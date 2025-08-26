@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App asd='asd' />
+    <App asd=' Changed in Conflict' />
   </React.StrictMode>,
   document.getElementById('root')
 );

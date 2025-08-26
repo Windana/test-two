@@ -7,7 +7,7 @@ function App(asd) {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. `its working fine. ${asd} . in COnflict`
+          Edit <code>src/App.js</code> and save to reload. `its working fine. ${asd} . in COnflict` Changed in Conflict
         </p>
         <a
           className="App-link"
@@ -15,10 +15,10 @@ function App(asd) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React How it works and all about it. !!!!!!! Elaz. . in COnflict
+          Learn React How it works and all about it. !!!!!!! Elaz. . in COnflict.  Changed in Conflict
         </a>
         <div>
-          Huta Mala From COnflict Zone. in COnflict
+          Huta Mala From COnflict Zone. in COnflict.  Changed in Conflict
         </div>
       </header>
     </div>
