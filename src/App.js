@@ -21,11 +21,7 @@ function App(asd) {
           Learn React How it works and all about it. !!!!!!! Elaz. . in COnflict.  Changed in Conflict
         </a>
         <div>
-<<<<<<< HEAD
-          Huta Mala From COnflict Zone. in COnflict.  Changed in Conflict
-=======
           Huta Mala From COnflict Zone. in COnflict - Dev Change
->>>>>>> dev
         </div>
       </header>
     </div>
