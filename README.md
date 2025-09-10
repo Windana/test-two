@@ -6,6 +6,8 @@ Contact Details related to banch dev-002 - new from remote
 This line added in feat/wr/feature2 branch
 This line added in dev branch
 
+This line added in dev branch v2
+
 asdasd
 
 asdasd
