@@ -8,7 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App asd='dev change' />
   </React.StrictMode>,
-  document.getElementById('broot')
+  document.getElementById('broot-feature3')
 );
 
 // If you want to start measuring performance in your app, pass a function
