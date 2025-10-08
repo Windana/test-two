@@ -12,6 +12,9 @@ function App(asd) {
         <p>
           New Line in work Branch
         </p>
+        <p>
+          Feature 2 change - Dev Change
+        </p>
         <div>
           All right reserved. 2024 Dev- Dev Change
         </div>
