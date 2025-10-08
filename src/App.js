@@ -9,6 +9,9 @@ function App(asd) {
         <p>
           Edit <code>src/App.js</code> and save to reload. `its working fine. ${asd} . in COnflict`
         </p>
+        <p>
+          New Line in work Branch
+        </p>
         <div>
           All right reserved. 2024 Dev- Dev Change
         </div>
