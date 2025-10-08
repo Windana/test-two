@@ -10,7 +10,7 @@ function App(asd) {
           Edit <code>src/App.js</code> and save to reload. `its working fine. ${asd} . in COnflict`
         </p>
         <p>
-          This is a feature 1 change. . in COnflict
+          New Line in work Branch
         </p>
         <div>
           All right reserved. 2024 Dev- Dev Change
